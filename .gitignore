@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+*.log
+*.db
+*.sqlite3
+*.dat
+.DS_Store
+*.pdf
+*.csv
+/tests/__pycache__
+.idea/
+.mypy_cache/
+.vscode/
